@@ -109,3 +109,6 @@ W przeciwieństwie do dashboardu sprzedażowego główny nacisk został położo
 - Modelowanie danych
 - Analiza finansowa
 - Raportowanie zarządcze
+
+<img width="2086" height="1168" alt="Zrzut ekranu 2026-07-29 194136" src="https://github.com/user-attachments/assets/41152012-978f-44c6-a2a6-446db7f61f7e" />
+
